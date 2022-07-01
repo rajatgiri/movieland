@@ -5,7 +5,7 @@ import searchIcon from "./Search.svg";
 import loadingGif from "./gifs/cube-loader.svg";
 
 export const App = () => {
-  const API_URL = "http://www.omdbapi.com/?apikey=1ebe11e9";
+  const API_URL = "https://www.omdbapi.com/?apikey=1ebe11e9";
   const [search, setSearch] = useState("");
   const [movies, setMovies] = useState([]);
   const [isLoading, setIsLoading] = useState(false);

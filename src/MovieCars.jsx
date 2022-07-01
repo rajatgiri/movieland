@@ -9,7 +9,7 @@ export const MovieCard = (props) => {
           src={
             props.movie1.Poster !== "N/A"
               ? props.movie1.Poster
-              : "http://via.placeholder.com/400"
+              : "https://via.placeholder.com/400"
           }
           alt={props.movie1.title}
         />
