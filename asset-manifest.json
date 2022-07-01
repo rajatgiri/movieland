@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-box/static/css/main.c34b420d.css",
+    "main.js": "/movie-box/static/js/main.370d10d9.js",
+    "static/media/cube-loader.svg": "/movie-box/static/media/cube-loader.3dd6229738050efc454328ac3f0b057a.svg",
+    "index.html": "/movie-box/index.html",
+    "static/media/Search.svg": "/movie-box/static/media/Search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.c34b420d.css.map": "/movie-box/static/css/main.c34b420d.css.map",
+    "main.370d10d9.js.map": "/movie-box/static/js/main.370d10d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34b420d.css",
+    "static/js/main.370d10d9.js"
+  ]
+}
